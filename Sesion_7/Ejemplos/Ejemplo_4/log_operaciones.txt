@@ -1,0 +1,10 @@
+[2025-03-31 10:14:03] INFO  - Drone ID 007 encendido exitosamente.
+[2025-03-31 10:14:07] INFO  - Calibración de sensores completada.
+[2025-03-31 10:14:10] INFO  - Coordenadas objetivo recibidas: LAT 25.6866, LON -100.3161.
+[2025-03-31 10:14:15] INFO  - Despegue iniciado.
+[2025-03-31 10:14:19] WARNING - Viento moderado detectado: 28 km/h.
+[2025-03-31 10:14:25] INFO  - Altitud estable alcanzada: 120 m.
+[2025-03-31 10:14:30] INFO  - Iniciando patrullaje perimetral.
+[2025-03-31 10:14:45] INFO  - Objeto desconocido detectado a 35 m. Activando cámara.
+[2025-03-31 10:14:52] ERROR - Pérdida temporal de señal GPS. Intentando reconexión.
+[2025-03-31 10:14:57] INFO  - Señal GPS restaurada. Reanudando misión.
